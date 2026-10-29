@@ -137,7 +137,7 @@ Publish:    ...
 
 ### Self-reflection
 My self-assessed level and my reasoning behind it. A personal reflection, such as how happy I am with the outcome, my inspirations, main lessons learned (failings and challenges), tools applied, or other factors that influenced my course of action.
-/0_deliverables/time_self-reflection.pdf
+/0_deliverables/time_self-reflection.md
 
 ### Stakeholder Review
 https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1-4
@@ -167,7 +167,7 @@ From 1990s to 2020s the media technology changed drastically, from the introduct
 But how did that affect the broad youth in Germany? Did it lead to a general new time share of how we go through our day? Or were only parts of the youth society affected by it?
 
 **Visual Story**
-To give an idea of the world between 1990s and 2020s, the pop culture is shown by famous memes as short and quickly graspable medium.
+To give an idea of the world between 1990s and 2020s, the pop culture is shown by famous memes as short and quickly graspable media.
 
 ## Digital Design
 https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1-4&t=0nkyOzm7z1VgPPg3-1

@@ -8,3 +8,9 @@
 !/**/code/*.html
 !/**/code/*.csv
 !/**/code/*.png
+
+# macOS / editors
+.DS_Store
+.vscode/
+!.vscode/extensions.json
+.idea/
