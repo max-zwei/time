@@ -131,16 +131,7 @@ Hosting:    [time-scroll.netlify.app](https://time-scroll.netlify.app/)
 ## Case Study
 Section:    Exploration, Definition, Development, Feedback, Learning
 Portfolio:  https://zwei.berlin/projects/time
-Publish:    ...
-
-## Evaluation
-
-### Self-reflection
-My self-assessed level and my reasoning behind it. A personal reflection, such as how happy I am with the outcome, my inspirations, main lessons learned (failings and challenges), tools applied, or other factors that influenced my course of action.
-/0_deliverables/time_self-reflection.md
-
-### Stakeholder Review
-https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1-4
+Publish:    https://www.behance.net/gallery/257763123/Scrolling-through-time-Social-life-and-media-habits
 
 # Stakeholder
 Responsible     Max Pinkert
@@ -175,6 +166,15 @@ https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1
 ## Print Design
 /design/poster.af
 
+## Evaluation
+
+### Self-reflection
+My self-assessed level and my reasoning behind it. A personal reflection, such as how happy I am with the outcome, my inspirations, main lessons learned (failings and challenges), tools applied, or other factors that influenced my course of action.
+/0_deliverables/time_self-reflection.md
+
+### Stakeholder Review
+https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1-4
+
 # Use of AI
 
 ## Research prompts
@@ -195,6 +195,5 @@ https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=1
 hide the text of each group, show it once the bar was animated
 
 ## Coding prompts
-create a simple website based on this figma frame:
-https://www.figma.com/design/OHP8oQ0OKuzeLuRvRGcd3t/DS_12-Infographics?node-id=233-1201&t=0nkyOzm7z1VgPPg3-11
+create a simple website based on the figma frame: ...
 its made for mobile only, the background should be always vsibile and the content cards can be loaded while scrolling to improve performance. as interaction add an endless scroll to the sub-frame content, meaning once the last card was reached by the user the site "jumps" to the start of content without the user noticing it
