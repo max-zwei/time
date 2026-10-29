@@ -11,3 +11,7 @@
 
 # macOS / editors
 .DS_Store
+
+# Fonts
+/0_deliverables/long-scroll/assets/ClimateCrisis.ttf
+/0_deliverables/long-scroll/assets/general-sans-medium.woff2
