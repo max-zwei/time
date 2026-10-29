@@ -11,6 +11,3 @@
 
 # macOS / editors
 .DS_Store
-.vscode/
-!.vscode/extensions.json
-.idea/
