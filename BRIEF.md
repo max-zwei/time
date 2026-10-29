@@ -131,7 +131,8 @@ Hosting:    [time-scroll.netlify.app](https://time-scroll.netlify.app/)
 ## Case Study
 Section:    Exploration, Definition, Development, Feedback, Learning
 Portfolio:  https://zwei.berlin/projects/time
-Publish:    https://www.behance.net/gallery/257763123/Scrolling-through-time-Social-life-and-media-habits
+Publish:    https://www.behance.net/gallery/257763123/Scrolling-through-time-Social-life-and-media-habits 
+Repost:     https://lnkd.in/p/exBTp3QC 
 
 # Stakeholder
 Responsible     Max Pinkert
