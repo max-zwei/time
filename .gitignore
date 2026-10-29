@@ -1,0 +1,10 @@
+# Folders named "code" hold
+# private source datasets — visible as an empty folder, contents never
+# published. .gitkeep keeps the folder itself tracked; the analysis notebooks
+# are own work and stay tracked alongside the data they read.
+/**/code/**
+!/**/code/*.gitkeep
+!/**/code/*.ipynb
+!/**/code/*.html
+!/**/code/*.csv
+!/**/code/*.png

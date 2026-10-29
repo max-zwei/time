@@ -1,0 +1,37 @@
+increase: activity code,increase: activity label,decrease: activity code,decrease: activity label,trend +/- 1 (abs)
+ha_716,716 Gymnastik/Fitness/Gesundheitssport (HA),ha_922,922 Wegezeiten Nebenerwerbstätigkeit (HA),4
+ha_716,716 Gymnastik/Fitness/Gesundheitssport (HA),ha_811,811 Zeitungen lesen (auch elektronisch) (HA),4
+ha_716,716 Gymnastik/Fitness/Gesundheitssport (HA),ha_980,980 Wegezeiten Mediennutzung (HA),4
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_412,412 Backen (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_245,245 Mittagspause Haupt-/Nebenerwerbstätigkeit (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_939,939 Andere/unbestimmte Wegezeiten in Verbindung mit Qualifikation/Bildung (36) (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_249x,249x Sonstige/unbestimmte Aktivitäten in Verbindung mit Erwerbstätigkeit und bezahltes Praktikum von Nicht-Schüler/innen/Studierenden (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_922,922 Wegezeiten Nebenerwerbstätigkeit (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_811,811 Zeitungen lesen (auch elektronisch) (HA),5
+ha_962,962 Wegezeiten Unterhaltung/Kultur (62) (HA),ha_980,980 Wegezeiten Mediennutzung (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_412,412 Backen (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_245,245 Mittagspause Haupt-/Nebenerwerbstätigkeit (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_939,939 Andere/unbestimmte Wegezeiten in Verbindung mit Qualifikation/Bildung (36) (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_249x,249x Sonstige/unbestimmte Aktivitäten in Verbindung mit Erwerbstätigkeit und bezahltes Praktikum von Nicht-Schüler/innen/Studierenden (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_922,922 Wegezeiten Nebenerwerbstätigkeit (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_811,811 Zeitungen lesen (auch elektronisch) (HA),5
+ha_842,"842 Informationen durch das Internet gewinnen, Up- und Downloads von Filmen, Bildern u.Ä. (HA)",ha_980,980 Wegezeiten Mediennutzung (HA),5
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_413,"413 Geschirr reinigen, Tisch abräumen (HA)",7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_941,"941 Wegezeiten Haushaltsführung, Gartenarbeit und Tierpflege (41-44) (HA)",7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_819,819 Lesen ohne nähere Bezeichnung (HA),7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_412,412 Backen (HA),7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_245,245 Mittagspause Haupt-/Nebenerwerbstätigkeit (HA),7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_939,939 Andere/unbestimmte Wegezeiten in Verbindung mit Qualifikation/Bildung (36) (HA),7
+ha_921,921 Wegezeiten Haupterwerbstätigkeit (HA),ha_249x,249x Sonstige/unbestimmte Aktivitäten in Verbindung mit Erwerbstätigkeit und bezahltes Praktikum von Nicht-Schüler/innen/Studierenden (HA),7
+ha_626,"626 Zirkus/Vergnügungsparks/Kirmes/Volksfest/Messen besuchen, Ausflüge (HA)",ha_413,"413 Geschirr reinigen, Tisch abräumen (HA)",8
+ha_626,"626 Zirkus/Vergnügungsparks/Kirmes/Volksfest/Messen besuchen, Ausflüge (HA)",ha_941,"941 Wegezeiten Haushaltsführung, Gartenarbeit und Tierpflege (41-44) (HA)",8
+ha_626,"626 Zirkus/Vergnügungsparks/Kirmes/Volksfest/Messen besuchen, Ausflüge (HA)",ha_819,819 Lesen ohne nähere Bezeichnung (HA),8
+ha_946,"946 Wegezeiten Einkaufen, Fremdleistungen (46) (HA)",ha_413,"413 Geschirr reinigen, Tisch abräumen (HA)",9
+ha_946,"946 Wegezeiten Einkaufen, Fremdleistungen (46) (HA)",ha_941,"941 Wegezeiten Haushaltsführung, Gartenarbeit und Tierpflege (41-44) (HA)",9
+ha_411,"411 Essen und Getränke vor- und zubereiten, Tisch decken (HA)",ha_413,"413 Geschirr reinigen, Tisch abräumen (HA)",9
+ha_411,"411 Essen und Getränke vor- und zubereiten, Tisch decken (HA)",ha_941,"941 Wegezeiten Haushaltsführung, Gartenarbeit und Tierpflege (41-44) (HA)",9
+ha_991,991 Wegezeiten Reisen (HA),ha_413,"413 Geschirr reinigen, Tisch abräumen (HA)",9
+ha_991,991 Wegezeiten Reisen (HA),ha_941,"941 Wegezeiten Haushaltsführung, Gartenarbeit und Tierpflege (41-44) (HA)",9
+ha_642,642 Familienfeiern/Feste privater Art (HA),ha_929,929 Andere/unbestimmte Wegezeiten Erwerbstätigkeit (24) (HA),10
+ha_120,120 Essen und Trinken (HA),ha_611,611 Kontakte/Gespräche mit Haushaltsmitgliedern (in Person) (HA),16
+ha_120,120 Essen und Trinken (HA),ha_961,961 Wegezeiten Soziale Kontakte (61) (HA),16
